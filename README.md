@@ -6,8 +6,7 @@
 - 🌱 I am proficient in C/C++
 - 💞️ I like binary security, reverse engineering and tcp/ip
 - 📫 In addition, I am also a member of the openEuler Changsha User Group.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Xiaoshae/Xiaoshae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
